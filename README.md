@@ -5,11 +5,11 @@ Cloned by entering the following code in a console: git clone https://github.com
 
 All code is contained in atm.py:
 
-  A simple bank class
+* A simple bank class
   
-  An implementation for an atm
+* An implementation for an atm
   
-  A main function that is run to test the implementation of the atm
+* A main function that is run to test the implementation of the atm
   
 To run, please navigate to the folder BR_atm and type "python3 atm.py"
 
